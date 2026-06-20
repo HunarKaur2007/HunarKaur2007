@@ -1,26 +1,26 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hunar%20Kaur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Undergraduate%20%7C%20AI%2FML%20%26%20Full%20Stack%20Engineer&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,24,25&height=220&section=header&text=Hunar%20Kaur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Undergraduate%20%7C%20AI%2FML%20and%20Full%20Stack%20Engineer&descAlignY=58&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;AI%2FML+Enthusiast;Full+Stack+Developer;Building+Real-Time+CV+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Computer+Engineering+Undergraduate;AI%2FML+Enthusiast;Full+Stack+Developer;Building+Real-Time+CV+Systems" alt="Typing SVG" />
 
-[![Academic](https://img.shields.io/badge/CGPA-8.52%2F10-7C3AED?style=for-the-badge)](#)
-[![Institute](https://img.shields.io/badge/TIET-Patiala-6D28D9?style=for-the-badge)](https://www.thapar.edu)
-[![Location](https://img.shields.io/badge/Location-Patiala%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Academic](https://img.shields.io/badge/CGPA-8.52%2F10-15803D?style=for-the-badge)](#)
+[![Institute](https://img.shields.io/badge/TIET-Patiala-166534?style=for-the-badge)](https://www.thapar.edu)
+[![Location](https://img.shields.io/badge/Location-Patiala%2C%20India-14532D?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hunar-kaur-6a62b830b)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunarkaur2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HunarKaur2007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-15803D?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hunar-kaur-6a62b830b)
+[![Email](https://img.shields.io/badge/Email-166534?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunarkaur2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-14532D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HunarKaur2007)
 
-![Profile Views](https://komarev.com/ghpvc/?username=HunarKaur2007&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/HunarKaur2007?style=for-the-badge&color=a78bfa&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/HunarKaur2007?style=for-the-badge&color=c4b5fd&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=HunarKaur2007&style=for-the-badge&color=16a34a&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/HunarKaur2007?style=for-the-badge&color=4ade80&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/HunarKaur2007?style=for-the-badge&color=86efac&label=STARS&logo=github)
 
 </div>
 
 ---
 
-### 🟣 About Me
+### 🟢 About Me
 
 ```yaml
 name: "Hunar Kaur"
@@ -44,43 +44,43 @@ mindset: "Building scalable, data-driven, and user-centric software systems"
 
 ---
 
-### 🟣 Tech Stack
+### 🟢 Tech Stack
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-A78BFA?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-8B5CF6?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-4ADE80?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-16A34A?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-15803D?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-166534?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-14532D?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-A78BFA?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-4ADE80?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-16A34A?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-7C3AED?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-15803D?style=flat-square&logo=mysql&logoColor=white)
 
 **Machine Learning & Tooling**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-6D28D9?style=flat-square&logo=pytorch&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/scikit--learn-5B21B6?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-A78BFA?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-8B5CF6?style=flat-square&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-7C3AED?style=flat-square&logo=xgboost&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-166534?style=flat-square&logo=pytorch&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/scikit--learn-14532D?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4ADE80?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-16A34A?style=flat-square&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-15803D?style=flat-square&logo=xgboost&logoColor=white)
 
 **Cloud, DevOps & Tooling**
 
-![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-A78BFA?style=flat-square&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-8B5CF6?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-166534?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-14532D?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-4ADE80?style=flat-square&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-16A34A?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🟣 AI / ML Expertise
+### 🟢 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -92,7 +92,7 @@ mindset: "Building scalable, data-driven, and user-centric software systems"
 
 ---
 
-### 🟣 Featured Projects
+### 🟢 Featured Projects
 
 <details>
 <summary><b>🛠️ Citizen Grievance Redressal & Escalation Management System (CGR-EMS)</b></summary>
@@ -186,7 +186,7 @@ Built an end-to-end pipeline combining YOLOv8 for clothing detection and ResNet5
 
 ---
 
-### 🟣 Experience & Leadership
+### 🟢 Experience & Leadership
 
 **Sponsorship & Operations Lead** — *Saturnalia Techno-Cultural Fest, TIET* — Patiala
 - Secured ₹2,00,000+ in sponsorships from industry partners for large-scale events
@@ -202,7 +202,7 @@ Built an end-to-end pipeline combining YOLOv8 for clothing detection and ResNet5
 
 ---
 
-### 🟣 Achievements
+### 🟢 Achievements
 
 <div align="center">
 
@@ -216,47 +216,47 @@ Built an end-to-end pipeline combining YOLOv8 for clothing detection and ResNet5
 
 ---
 
-### 🟣 Coding Profiles
+### 🟢 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HunarKaur07)
-[![CodeChef](https://img.shields.io/badge/CodeChef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hkaur5_be24)
+[![LeetCode](https://img.shields.io/badge/LeetCode-15803D?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/HunarKaur07)
+[![CodeChef](https://img.shields.io/badge/CodeChef-166534?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hkaur5_be24)
 
 ---
 
-### 🟣 GitHub Analytics
+### 🟢 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HunarKaur2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HunarKaur2007&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HunarKaur2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=16A34A&text_color=86EFAC" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HunarKaur2007&theme=tokyonight&hide_border=true&background=0D1117&ring=4ADE80&fire=16A34A&currStreakLabel=86EFAC" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunarKaur2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunarKaur2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=86EFAC" />
 
 </div>
 
 ---
 
-### 🟣 GitHub Trophies
+### 🟢 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HunarKaur2007&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=HunarKaur2007&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
 ---
 
-### 🟣 Contribution Activity
+### 🟢 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HunarKaur2007&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HunarKaur2007&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4ADE80&line=16A34A&point=86EFAC" />
 
 </div>
 
 ---
 
-### 🟣 Contribution Snake
+### 🟢 Contribution Snake
 
 <div align="center">
 
@@ -266,7 +266,7 @@ Built an end-to-end pipeline combining YOLOv8 for clothing detection and ResNet5
 
 ---
 
-### 🟣 Current Focus
+### 🟢 Current Focus
 
 ```yaml
 learning:
@@ -290,11 +290,11 @@ open_to:
 
 ---
 
-### 🟣 Connect With Me
+### 🟢 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunarkaur2007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hunar-kaur-6a62b830b)
-[![GitHub](https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HunarKaur2007)
+[![Gmail](https://img.shields.io/badge/Gmail-15803D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hunarkaur2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-166534?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hunar-kaur-6a62b830b)
+[![GitHub](https://img.shields.io/badge/GitHub-14532D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HunarKaur2007)
 
 ---
 
@@ -302,6 +302,6 @@ open_to:
 
 *"Engineering intelligent systems, one commit at a time."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,24,25&height=120&section=footer)
 
 </div>
