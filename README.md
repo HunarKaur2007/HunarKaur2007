@@ -236,16 +236,6 @@ Built an end-to-end pipeline combining YOLOv8 for clothing detection and ResNet5
 
 ---
 
-### 🟢 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HunarKaur2007&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
----
-
 ### 🟢 Contribution Activity
 
 <div align="center">
@@ -256,11 +246,11 @@ Built an end-to-end pipeline combining YOLOv8 for clothing detection and ResNet5
 
 ---
 
-### 🟢 Contribution Snake
+### 🟢 LeetCode Progress
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HunarKaur2007/HunarKaur2007/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://leetcard.jacoblin.cool/HunarKaur07?theme=dark&font=baloo+2&ext=heatmap" />
 
 </div>
 
