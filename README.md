@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:60A5FA&text=Hunar%20Kaur&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Engineering%20Student%20%7C%20AI%2FML%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1D4ED8,100:065F46&text=Hunar%20Kaur&fontSize=66&fontColor=FFFFFF&fontAlign=50&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20@%20TIET&descAlign=50&descAlignY=68&descSize=19"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+AI-powered+Applications;Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+%7C+Computer+Vision+%7C+Backend;Always+Learning+Something+New"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2800&pause=800&color=065F46&center=true&vCenter=true&width=850&lines=Building+AI-powered+Applications;Full+Stack+Developer;Machine+Learning+Enthusiast;DSA+%7C+Computer+Vision+%7C+Backend;Always+Learning+Something+New"/>
 <br>
 
 <a href="https://linkedin.com/in/hunar-kaur-6a62b830b">
