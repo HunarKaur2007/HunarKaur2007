@@ -298,7 +298,7 @@ Currently, I'm strengthening my software engineering skills through projects, ha
 <div align="center">
 
 <a href="https://leetcode.com/u/HunarKaur07">
-<img src="https://leetcard.jacoblin.cool/HunarKaur07?theme=dark&font=baloo&ext=heatmap"/>
+<img width="90%" src="https://leetcard.jacoblin.cool/HunarKaur07?theme=light&font=baloo&ext=heatmap"/>
 </a>
 
 <br><br>
@@ -311,20 +311,37 @@ Currently, I'm strengthening my software engineering skills through projects, ha
 
 ---
 
-
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HunarKaur2007&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=HunarKaur2007&show_icons=true&theme=default&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HunarKaur2007&theme=tokyonight&hide_border=true"/>
-
-<br>
+<img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HunarKaur2007&layout=compact&theme=default&hide_border=true"/>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HunarKaur2007&theme=github-light&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/HunarKaur2007" alt="GitHub Contribution Chart"/>
+
+
+  
+</div>
+
+
 ---
+
 
 # 🌱 Currently Learning
 
