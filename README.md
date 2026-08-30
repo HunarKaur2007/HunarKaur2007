@@ -285,9 +285,9 @@ Currently, I'm strengthening my software engineering skills through projects, ha
 # 🏆 Achievements
 
 * 📄 Published Research Paper at **IMPACT-26**
-* 💻 Solved **100+ LeetCode** problems 🚀
+* 💻 Solved **200+ LeetCode** problems 🚀
 * 🚀 Participated in various hackathons like **Amazon** & **Goldman Sachs** Hackathons
-* 🎓 Current CGPA: **8.52 / 10** (until sem 3)
+* 🎓 Current CGPA: **8.63 / 10** (until sem 4)
 * 🤝 Organized technical events for **8,000+ participants**
 
 ---
